@@ -1,0 +1,6 @@
+*.pyc
+*.pyo
+*.csv
+utils/__pycache__/
+*.py
+
