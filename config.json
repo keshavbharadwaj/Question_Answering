@@ -1,0 +1,11 @@
+{	
+	"qa_path":"qa_dataset",
+	"train_root_directory":"train",
+	"train_path":"dataset/train-v2.0.json",
+	"val_path_directory":"val",
+	"val_path":"dataset/dev-v2.0.json",
+	"min_context_len":100,
+	"question_length_threshold":4,
+	"vocab_path" : "vocab.json"
+
+}
